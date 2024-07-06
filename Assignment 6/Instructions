@@ -1,0 +1,2 @@
+Find interesting genes for melanoma, CNS, and Leukemia in the NCI60 data set in ISLR. Use a false discovery rate of .2.( Setting it up Are genes from the same cell statistically independent?)
+Are there any common interesting genes between any of the 2 cancers?
