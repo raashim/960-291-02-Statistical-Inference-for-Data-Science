@@ -1,0 +1,5 @@
+Lets test with 1 observation,
+H0: Distribution is ½ Poisson(10)+1/2(Poisson(40)
+HA: Distribution is Poisson 20
+Construct the test region using the likelihood method
+Calculate the power of the test
