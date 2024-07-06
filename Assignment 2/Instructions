@@ -1,0 +1,16 @@
+Is there a difference in distributions of salaries between the 4 divisions?
+Is there a difference in the way salary depends on performance between the 4 divisions?
+
+1 look at all 4 divisions
+
+2 For each division choose the minimal Cp lars model (20 points each division, 80 points total)
+
+Check with scatterplots the predictions using the minimal CP lars model from the chosen division against actual salaries for each division (4 scatterplots, construct 4 predictions based on the 1 model )
+
+After you do this for all 4 divisions (16 scatterplots) Use this to decide if it looks like there is a uniform process based on performance for choosing salary or not. Argue why or why not.
+
+3 After youve done steo 2 building the lars model 4 times (so 16 plots) compare  the lars and lm model for the same variables predicting the salary for 1 division (1 scatterplot)  (20 points)
+
+Compare the prediction (eg. just AElars vs AElm) and the coefficients. What have the coefficients done between Lars and LM???
+
+Extra credit for boxplots with relevant discussion.
