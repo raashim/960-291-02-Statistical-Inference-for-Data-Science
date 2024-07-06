@@ -1,0 +1,15 @@
+Does random forest generalize better across divisions than linear models for the process of salary selection?
+Why might it be reasonable to think this given the way trees work?
+Use the plot and correlation of the cross predictions for lars vs salary and random forest vs salary to answer this question.
+
+cor(predrfAE,HittersAEclean$Salary)
+[1] 0.6742323
+
+cor(predAElarsdirect,HittersAEclean$Salary)
+[1] 0.8890144
+
+cor(predrfAENW,HittersNWclean$Salary)
+[1] 0.717582
+
+cor(predAElarsNW,HittersNWclean$Salary)
+[1] 0.506991
