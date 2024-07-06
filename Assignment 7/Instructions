@@ -1,0 +1,5 @@
+Use multiway anova to analyze crop.data.csv
+Show all work, comment on what the code is doing
+Are all 3 main effects (including blocks) significant?
+Are any interaction effects significant?
+Which pairs of means show significance under Tukeys HSD
