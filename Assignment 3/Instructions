@@ -1,0 +1,7 @@
+In the weather disasters data:
+
+Model the Y variables drought and wild fire as binomial functions using the logit link and consider delta.temp, year, and delta.temp*year as the x variables (delta.temp*Year includes all 3).
+
+Use Akaike score and deviance differences to look at which is best model for each of the two.
+
+Choose best models for each of drought and wildfire.
