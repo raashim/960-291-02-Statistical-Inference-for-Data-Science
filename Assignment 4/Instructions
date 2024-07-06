@@ -1,0 +1,7 @@
+Explore regression functions for delta.temp and Year polynomials up to full 2nd order ( dt+Y+dt:Y+I(dt^2)+I(Y^2))
+Wildfire.Count
+Drought.Count
+All.Disaster.Count
+Severe.Storm.Count
+In NOAAGISSWD
+Use Logistic regression or linear regression as appropriate using lmboot or logitboot, Identify plausible models which with 95% confidence the coefficients are not 0. Use AIC or PRESS to decide between.
